@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="movie_name">Movie name</string>
+    <string name="vote_average_movie">Vote Average</string>
+    <string name="release_date_movie">Release Date</string>
+    <string name="over_view_movie">Over View</string>
+    <string name="connection_error">oops check internet connection</string>
+    <string name="add_movie_success">Movie Added Successfully</string>
+    <string name="movie_removed_from_db">Movie Removed From Favourite</string>
+    <string name="share_movie">Share movie to .......</string>
+    <string name="unknown_error">Uknown Error</string>
+</resources>
